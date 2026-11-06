@@ -1,11 +1,11 @@
 {
   "name": "exposicion-usm-practicas",
   "version": "1.0.0",
-  "description": "Awebo",
-  "main": "index.js",
+  "description": "Me da flojera cambiar esto",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "lint": "eslint ."
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,4 @@
     "eslint": "^10.14.0",
     "globals": "^17.14.0"
   }
-  
 }
